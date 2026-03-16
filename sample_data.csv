@@ -1,0 +1,9 @@
+service_id,service_name,request_type,processing_time_minutes,priority_level,completed
+1,Passport Application,Form Submission,120,High,0
+2,Driving License Renewal,Form Submission,60,Medium,0
+3,Property Tax Payment,Payment,30,High,0
+4,Voter ID Registration,Form Submission,90,High,0
+5,Electricity Bill Payment,Payment,15,Medium,0
+6,Water Bill Payment,Payment,20,Low,0
+7,Income Certificate,Verification,45,High,0
+8,Caste Certificate,Verification,40,High,0
